@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "Action"
+  s.name         = "RxAction"
   s.version      = "5.0.0"
   s.summary      = "Abstracts actions to be performed in RxSwift."
   s.description  = <<-DESC
